@@ -1,7 +1,8 @@
 # Check out what i make! :point_down:
 
 ## My Games:
-[src="http://www.google.com.au/images/nav_logo7.png"](https://img.itch.zone/aW1nLzExNjA4NTY1LnBuZw==/original/mfQi2R.png)
+[<img src="https://img.itch.zone/aW1nLzExNjA4NTY1LnBuZw==/original/mfQi2R.png">](https://img.itch.zone/aW1nLzExNjA4NTY1LnBuZw==/original/mfQi2R.png)
+
 <!--
 **kayjay2002pl/kayjay2002pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
