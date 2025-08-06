@@ -1,6 +1,6 @@
 # Check out what i make! :point_down:
 
-## My Games:
+## Games:
 [<img src="https://img.itch.zone/aW1nLzExNjA4NTY1LnBuZw==/original/mfQi2R.png" width="600" alt="banner image imitating a neon bar sign, saying 'Hellscape' with 'hell' being red and 'scape' being blue">](https://somnys.itch.io/hellscape)
 [<img src="https://img.itch.zone/aW1nLzEyNzM2OTA1LnBuZw==/original/bR2P8k.png" width="600" alt="banner image saying 'Graveyard Tower' and a green splatter under with holes spelling 'offense'">](https://somnys.itch.io/graveyard-tower-offense)
 
